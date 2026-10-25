@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bitchat legacy</string>
+    <string name="hint_message">Message ou /commande…</string>
+    <string name="send">Envoyer</string>
+    <string name="status_idle">mesh : démarrage…</string>
+    <string name="notif_title">bitchat actif</string>
+    <string name="notif_text">En écoute sur le réseau mesh</string>
+</resources>
